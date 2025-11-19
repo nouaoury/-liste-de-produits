@@ -31,7 +31,7 @@ const App = () => {
       name: 'Montre Classique',
       price: '199 dhs',
       description: 'Montre élégante pour toutes les occasions. Design intemporel et qualité suisse.',
-      image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=400&h=300&fit=crop'
+      image: require('./assets/images/téléchargement (1).jpg')
     },
     {
       id: '4',
